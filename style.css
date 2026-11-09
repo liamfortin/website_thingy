@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+body {
+    background-color: #100810;
+    color: white;
+    font-family: "Intel One Mono";
+}
+img {
+    border-radius: 10px;
+    width: 300px;
+    filter: sepia(0.4);
+}
